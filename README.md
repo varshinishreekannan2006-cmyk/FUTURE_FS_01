@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # FUTURE_FS_01
 CareerSync AI is a MERN Stack web application that analyzes resumes using ATS-based scoring, identifies detected and missing skills, recommends job roles, interview questions, salary ranges, and personalized learning paths. It helps students improve their resumes and enhance career readiness through AI-powered insights.
 >>>>>>> 3c730fd2a436212a1f093bfd3ff3f9a4d85a7e39
+=======
+# FUTURE_FS_01
+CareerSync AI is a MERN Stack web application that analyzes resumes using ATS-based scoring, identifies detected and missing skills, recommends job roles, interview questions, salary ranges, and personalized learning paths. It helps students improve their resumes and enhance career readiness through AI-powered insights.
+>>>>>>> 40dcd25fc74209f9a9efde922cc4e4a9650c0c2b
